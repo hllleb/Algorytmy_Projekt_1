@@ -1,1 +1,1 @@
-# Algorytmy_Projekt_1
+# Projektowanie i Analiza Algorytmów - Projekt 1
